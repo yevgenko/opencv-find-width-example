@@ -1,4 +1,19 @@
 
+## Requirements
+
+* Python 2.7
+* OpenCV v3.1
+* NumPy v1.11
+
+## Usage
+
+```bash
+python main.py
+```
+
+---
+
+## Personal Notes
 
 Sensor script:
 l_sensor_base = X (constant)
